@@ -3,6 +3,10 @@ logs
 *.log
 npm-debug.log*
 
+# Expo
+node_modules/**/*
+.expo/*
+
 # Runtime data
 pids
 *.pid
