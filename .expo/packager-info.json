@@ -1,8 +1,8 @@
 {
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerPort": 19000,
+  "packagerPort": 19002,
+  "packagerPid": 48396,
+  "expoServerNgrokUrl": "https://ka-dut.newswim.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.ka-dut.newswim.mobile.exp.direct",
+  "ngrokPid": 48415
 }
